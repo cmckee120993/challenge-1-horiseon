@@ -9,3 +9,7 @@ By using my knowledge of HTML, I altered the code to be more readible for search
 ## Credits
 
 My source code was provided by Horiseon and their design team.
+
+## Link
+
+Live site: https://cmckee120993.github.io/challenge-1-horiseon/ 
